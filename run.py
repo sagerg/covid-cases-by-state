@@ -1,6 +1,5 @@
 '''
 api https://covidactnow.org/data-api
-key e3b69fdb25764d198b5865a09dc8c281
 Current data for all states, counties, or metros
 https://api.covidactnow.org/v2/states.json?apiKey=YOUR_KEY_HERE
 https://api.covidactnow.org/v2/counties.json?apiKey=YOUR_KEY_HERE
