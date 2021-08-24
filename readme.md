@@ -3,14 +3,14 @@ Uses [covidactnow.org's](https://covidactnow.org/data-api) API to get Covid numb
 ## sample flow
 GET request:
 ```json
-{ ...
+{
   "MI": {
     "cases": 1039017, 
     "deaths": 21384, 
     "lastUpdatedDate": "2021-08-23", 
     "population": 9986857, 
     "state": "MI"
-  } ...
+  }
 }
 ```
 POST request: `{ some_data_you_posted }` >> `database.txt`  
