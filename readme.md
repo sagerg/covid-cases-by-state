@@ -1,4 +1,5 @@
 # RESTful API for Covid cases by state
+![workflow](https://github.com/sagerg/react-app/actions/workflows/pylint.yml/badge.svg)
 Uses [covidactnow.org's](https://covidactnow.org/data-api) API to get Covid numbers and cases by state
 ## sample flow
 GET request:
